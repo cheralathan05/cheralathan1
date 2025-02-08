@@ -1,0 +1,64 @@
+
+*{
+    margin: 0;
+    
+}
+li{
+    display: inline;
+}
+nav{
+    background-color: black;
+    color: gray;
+    display: inline block;
+    padding: 30px;
+}
+h1{
+    color: azure;
+    display: inline;
+}
+ul{
+    display: inline;
+}
+bar{
+    display: inline;
+    padding: 50px;
+}
+ul{
+    padding-left: 70%;
+}
+li:hover{
+    cursor: pointer;
+    color: beige;
+}
+img{
+    width: 200px;
+    height: 200px;
+    display: inline;
+
+}
+.two{
+    text-align: center;
+    
+}
+input{
+    width: 50%;
+    padding: 20px;
+    margin-top: 60px;
+}
+.nox{
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 200px; 
+    margin-top: 40px;
+    
+}
+.product{
+    text-align: center;
+}
+.nox:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
