@@ -1,6 +1,6 @@
 
 *{
-    margin: 0;
+    margin: 0%;
     
 }
 li{
@@ -14,12 +14,12 @@ nav{
 }
 h1{
     color: azure;
-    display: inline;
+   
 }
 ul{
     display: inline;
 }
-bar{
+.bar{
     display: inline;
     padding: 50px;
 }
@@ -61,4 +61,14 @@ input{
     cursor: pointer;
     background-color: black;
     color: white;
+}
+.kk{
+    margin-top: 40px;
+    background-color: black;
+    color: azure;
+    padding: 50px;
+
+}
+h1{
+    margin-top: 40px;
 }
